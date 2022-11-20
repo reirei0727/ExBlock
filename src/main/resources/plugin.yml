@@ -1,0 +1,4 @@
+name: Exblock
+version: '${project.version}'
+main: exblock.exblock.Exblock
+api-version: 1.18

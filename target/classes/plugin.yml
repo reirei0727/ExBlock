@@ -1,0 +1,4 @@
+name: Exblock
+version: '1.0-SNAPSHOT'
+main: exblock.exblock.Exblock
+api-version: 1.18
